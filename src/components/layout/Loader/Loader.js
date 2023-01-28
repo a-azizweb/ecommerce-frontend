@@ -13,7 +13,6 @@ const Loader = () => {
         <span></span>
         <span></span>
         <span></span>
-        <h1>Loading</h1>
       </div>
     </div>
   );

@@ -64,13 +64,6 @@ body {
   animation-delay: 0.5s;
 }
 
-.loader h1 {
-  font-family: 'Roboto';
-  color: #000;
-  margin: 0;
-  padding: 0;
-}
-
 @keyframes animate {
   0% {
     border: 1px solid #000;
