@@ -36,6 +36,12 @@
 }
 
 .loading {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: grid;
+  place-items: center;
+  max-width: 100%;
   --spacer: calc(
     var(--loading-spinner-size) * var(--loading-spinner-gap) +
       var(--loading-spinner-size)
