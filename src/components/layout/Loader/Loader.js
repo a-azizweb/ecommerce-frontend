@@ -5,15 +5,16 @@ const Loader = () => {
     // <div className="loading">
     //   <div></div>
     // </div>
-
-    <div className="container loader">
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <h1>Loading</h1>
+    <div className="container">
+      <div className=" loader">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <h1>Loading</h1>
+      </div>
     </div>
   );
 };
