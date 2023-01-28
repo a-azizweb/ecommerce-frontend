@@ -6,10 +6,7 @@ const Loader = () => {
     //   <div></div>
     // </div>
     <div class="loading">
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
+      <div style="transform: rotate(360deg);"></div>
     </div>
   );
 };
