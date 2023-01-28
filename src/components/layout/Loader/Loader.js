@@ -6,11 +6,11 @@ const Loader = () => {
     //   <div></div>
     // </div>
     <div class="loading">
-  <span></span>
-  <span></span>
-  <span></span>
-  <span></span>
-</div>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
   );
 };
 
