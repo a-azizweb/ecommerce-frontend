@@ -1,4 +1,4 @@
-/* .loading {
+.loading {
   width: 100vw;
   height: 100vh;
   background-color: white;
@@ -20,8 +20,8 @@
   to {
     transform: rotateZ(-360deg);
   }
-} */
-
+}
+/* 
 body {
   margin: 0;
   padding: 0;
@@ -80,4 +80,4 @@ body {
     background-color: yellow;
     transform: translateY(0);
   }
-}
+} */
